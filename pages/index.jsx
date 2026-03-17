@@ -60,7 +60,7 @@ const Home = () => {
             className="xl:hidden flex justify-center mt-4 mb-20 relative"
           >
             <div className="w-[300px] h-[300px] sm:w-[450px] sm:h-[550px] rounded-xl overflow-hidden relative">
-              <Avatar imgAlpha="/139179226 (1).jfif" className="rounded-xl" />
+              <Avatar imgAlpha="/1.jpg" className="rounded-xl" />
 
               {/* overlay to darken mobile avatar */}
               <div className="absolute inset-0 bg-black opacity-20 rounded-xl pointer-events-none"></div>
