@@ -8,7 +8,7 @@ import {
   FaJs,
   FaReact,
   FaWordpress,
-  FaNodeJs, // Make sure FaNodeJs is imported correctly
+  FaNodeJs,
 } from "react-icons/fa";
 import {
   SiAdobephotoshop,
@@ -91,7 +91,6 @@ export const aboutData = [
   {
     title: "experience",
     info: [
-      // Group experiences into arrays of two
       [
         {
           title: "AI Solution Engineer",
@@ -123,7 +122,6 @@ export const aboutData = [
           company: "COGNISOFT LABS",
           stage: "Jul 2022 - Sep 2024",
         },
-        // You can add another experience here if needed, or leave it as a single item if odd
       ],
     ],
   },
@@ -141,9 +139,9 @@ const About = () => {
   const [index, setIndex] = useState(0);
 
   return (
-    <div className="min-h-screen bg-primary/30 pt-1 pb-6 md:pt-3 md:pb-2 xl:pt-12 xl:pb-24 text-center xl:text-left">
+    <div className="min-h-screen bg-primary/30 pt-2 pb-8 xl:pt-24 xl:pb-24 text-center xl:text-left overflow-y-auto xl:overflow-hidden">
       <Circles />
-      {/* avatar img */}
+      {/* avatar img – desktop only */}
       <motion.div
         variants={fadeIn("right", 0.2)}
         initial="hidden"
@@ -154,24 +152,25 @@ const About = () => {
         <Avatar />
       </motion.div>
 
-      <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6">
-        {/* text */}
-        <div className="flex-1 flex flex-col justify-center mt-6 md:mt-2">
+      <div className="container mx-auto flex flex-col xl:flex-row gap-x-6 px-4 xl:px-0">
+        {/* ── LEFT: text + counters ── */}
+        <div className="flex-1 flex flex-col justify-center mt-24 xl:mt-0">
           <motion.h2
             variants={fadeIn("right", 0.2)}
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="text-[32px] leading-tight sm:text-[40px] md:text-[48px] xl:text-6xl"
+            className="text-[24px] leading-tight sm:text-[32px] md:text-[40px] xl:text-6xl font-semibold mt-8 sm:mt-0"
           >
             Innovating <span className="text-accent">Solutions</span> through
             expert engineering.
           </motion.h2>
+
           <motion.p
             variants={fadeIn("right", 0.4)}
             initial="hidden"
             animate="show"
-            className="max-w-[520px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0 mt-5 text-[14px] sm:text-base"
+            className="max-w-[500px] mx-auto xl:mx-0 mb-5 xl:mb-12 mt-3 xl:mt-5 text-[13px] sm:text-[14px] xl:text-base px-1 xl:px-0"
           >
             I am a professional and enthusiastic programmer with a self-learning
             attitude. I love to explore new technologies and am passionate about
@@ -179,50 +178,50 @@ const About = () => {
             make the web more open to the world.
           </motion.p>
 
-          {/* counters */}
+          {/* counters — visible on all screens */}
           <motion.div
             variants={fadeIn("right", 0.6)}
             initial="hidden"
             animate="show"
-            className="hidden md:flex md:max-w-xl xl:max-w-none mx-auto xl:mx-0 mb-8"
+            className="flex max-w-[380px] sm:max-w-xl xl:max-w-none mx-auto xl:mx-0 mb-6 xl:mb-8"
           >
-            <div className="flex flex-1 xl:gap-x-6">
+            <div className="flex flex-1 gap-x-3 xl:gap-x-6">
               {/* experience */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
-                <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
+                <div className="text-xl xl:text-4xl font-extrabold text-accent mb-1">
                   <CountUp start={0} end={3} duration={5} />
                 </div>
-                <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
+                <div className="text-[10px] xl:text-xs uppercase tracking-[1px] leading-[1.4] max-w-[70px] xl:max-w-[100px]">
                   Years of experience.
                 </div>
               </div>
 
               {/* clients */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
-                <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
+                <div className="text-xl xl:text-4xl font-extrabold text-accent mb-1">
                   <CountUp start={0} end={50} duration={5} />
                 </div>
-                <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
+                <div className="text-[10px] xl:text-xs uppercase tracking-[1px] leading-[1.4] max-w-[70px] xl:max-w-[100px]">
                   Satisfied clients.
                 </div>
               </div>
 
               {/* projects */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
-                <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
+                <div className="text-xl xl:text-4xl font-extrabold text-accent mb-1">
                   <CountUp start={0} end={30} duration={5} />
                 </div>
-                <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
+                <div className="text-[10px] xl:text-xs uppercase tracking-[1px] leading-[1.4] max-w-[70px] xl:max-w-[100px]">
                   Finished projects.
                 </div>
               </div>
 
               {/* awards */}
               <div className="relative flex-1">
-                <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
+                <div className="text-xl xl:text-4xl font-extrabold text-accent mb-1">
                   <CountUp start={0} end={5} duration={5} />
                 </div>
-                <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
+                <div className="text-[10px] xl:text-xs uppercase tracking-[1px] leading-[1.4] max-w-[70px] xl:max-w-[100px]">
                   Winning awards.
                 </div>
               </div>
@@ -230,21 +229,23 @@ const About = () => {
           </motion.div>
         </div>
 
+        {/* ── RIGHT: tabs + content ── */}
         <motion.div
           variants={fadeIn("left", 0.4)}
           initial="hidden"
           animate="show"
           exit="hidden"
-          className="flex flex-col w-full xl:max-w-[55%] h-auto md:h-[560px] xl:h-[500px] xl:pr-6"
+          className="flex flex-col w-full xl:max-w-[55%] xl:pr-6"
         >
-          <div className="flex gap-x-4 xl:gap-x-4 mx-auto xl:mx-0 mb-4">
+          {/* tab buttons */}
+          <div className="flex gap-x-4 xl:gap-x-6 mx-auto xl:mx-0 mb-4 mt-2 xl:mt-0">
             {aboutData.map((item, itemI) => (
               <div
                 key={itemI}
                 className={`${
                   index === itemI &&
                   "text-accent after:w-[100%] after:bg-accent after:transition-all after:duration-300"
-                } cursor-pointer capitalize text-[14px] sm:text-base xl:text-lg relative after:w-8 after:h-[2px] after:bg-white after:absolute after:-bottom-1 after:left-0`}
+                } cursor-pointer capitalize text-[13px] sm:text-[15px] xl:text-lg relative after:w-8 after:h-[2px] after:bg-white after:absolute after:-bottom-1 after:left-0`}
                 onClick={() => setIndex(itemI)}
               >
                 {item.title}
@@ -252,63 +253,52 @@ const About = () => {
             ))}
           </div>
 
-          <div className="py-2 xl:py-6 flex flex-col gap-y-4 xl:gap-y-8 flex-1">
+          {/* tab content */}
+          <div className="py-3 xl:py-6 flex flex-col gap-y-3 xl:gap-y-8">
             {aboutData[index].info.map((rowOrItem, rowOrItemI) => {
-              // Conditional rendering for 'experience' section to display items in rows
               if (aboutData[index].title === "experience") {
                 return (
                   <div
                     key={rowOrItemI}
-                    className="flex flex-col md:flex-row justify-between gap-x-8 gap-y-3 mb-4"
+                    className="flex flex-col sm:flex-row justify-between gap-x-6 gap-y-2 mb-3"
                   >
                     {rowOrItem.map((item, itemI) => (
                       <div
                         key={itemI}
-                        className="flex flex-col items-center text-center text-white/60 w-full md:w-1/2 xl:text-left xl:items-start"
+                        className="flex flex-col items-center text-center text-white/60 w-full sm:w-1/2 xl:text-left xl:items-start"
                       >
-                        {/* title */}
-                        <div className="font-light mb-1 md:mb-0 text-white text-[15px] sm:text-base xl:text-xl">
+                        <div className="font-light text-white text-[14px] sm:text-[15px] xl:text-xl">
                           {item.title} - {item.company}
                         </div>
                         {item.stage && (
-                          <>
-                            <div className="hidden md:flex text-sm">-</div> {/* Smaller dash for cleaner look */}
-                            <div className="text-sm">{item.stage}</div>
-                          </>
+                          <div className="text-[12px] sm:text-sm mt-0.5">{item.stage}</div>
                         )}
-                        {item.location && <div className="text-sm">{item.location}</div>}
+                        {item.location && (
+                          <div className="text-[12px] sm:text-sm">{item.location}</div>
+                        )}
                       </div>
                     ))}
                   </div>
                 );
               } else {
-                // Original rendering for 'skills' and 'credentials'
-                const item = rowOrItem; // Rename for clarity
+                const item = rowOrItem;
                 return (
                   <div
                     key={rowOrItemI}
-                    className="flex flex-col items-center text-center text-white/60 w-full xl:text-left xl:items-start mb-4 xl:mb-0" // Removed xl:w-[48%] to allow full width
+                    className="flex flex-col items-center text-center text-white/60 w-full xl:text-left xl:items-start mb-2 xl:mb-0"
                   >
-                    {/* title */}
-                    <div className="font-light mb-2 md:mb-0 text-white text-[15px] sm:text-base xl:text-xl">
+                    <div className="font-light mb-2 text-white text-[14px] sm:text-[15px] xl:text-xl">
                       {item.title}
                     </div>
-                    {item.stage && (
-                      <>
-                        <div className="hidden md:flex">-</div>
-                        <div>{item.stage}</div>
-                      </>
-                    )}
+                    {item.stage && <div className="text-sm">{item.stage}</div>}
 
-                    <div className="flex flex-wrap justify-start gap-x-[1.5rem] gap-y-[1.5rem] mt-4 w-full px-2 xl:px-0">
-                      {/* icons */}
+                    {/* icons grid */}
+                    <div className="flex flex-wrap justify-center xl:justify-start gap-x-4 gap-y-3 xl:gap-x-6 xl:gap-y-5 mt-3 w-full px-1 xl:px-0">
                       {item.icons?.map((Icon, iconI) => (
                         <div
                           key={iconI}
-                          className="text-3xl sm:text-4xl xl:text-5xl text-white hover:text-accent transition-all duration-300"
+                          className="text-[22px] sm:text-[26px] xl:text-4xl text-white hover:text-accent transition-all duration-300"
                         >
-                          {" "}
-                          {/* Increased icon size to text-5xl */}
                           <Icon />
                         </div>
                       ))}
