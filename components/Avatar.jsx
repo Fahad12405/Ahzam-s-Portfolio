@@ -8,7 +8,7 @@ const Avatar = ({ imgAlpha }) => {
         alt="Syed Ahzam Imam"
         width={737}
         height={850}
-        className="translate-z-0 w-full h-full object-contain"
+        className="translate-z-0 w-full h-full object-contain "
       />
     </div>
   );
