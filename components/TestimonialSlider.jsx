@@ -73,7 +73,7 @@ const TestimonialSlider = () => {
       {testimonialData.map((person, i) => (
         <div
           key={`${person.name}-${i}`}
-          className="h-full rounded-xl border border-white/10 bg-[rgba(65,47,123,0.18)] px-4 py-3 hover:bg-[rgba(89,65,169,0.18)] transition-all duration-300 mt-6"
+          className="h-full rounded-xl border border-white/10 bg-[rgba(65,47,123,0.18)] px-4 py-3 hover:bg-[rgba(89,65,169,0.18)] transition-all duration-300 mt-3"
         >
           <div className="flex items-start gap-3">
             <div className="shrink-0">

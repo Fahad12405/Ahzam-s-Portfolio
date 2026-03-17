@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
       className={[
         "page bg-site text-white bg-cover bg-no-repeat",
         sora.variable,
-        "font-sora relative pb-24 xl:pb-0",
+        "font-sora relative pb-24 xl:pb-0 overflow-x-hidden",
         isHome ? "page--no-scroll xl:h-screen xl:overflow-hidden" : "",
       ].join(" ")}
     >

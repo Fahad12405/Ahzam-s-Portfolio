@@ -33,10 +33,10 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen bg-primary/30 pt-3 pb-6 md:pt-6 md:pb-10">
+    <div className="min-h-screen bg-primary/30 mt-28 sm:mt-0 pt-3 pb-6 md:pt-20 md:pb-10">
       <div className="container mx-auto text-center xl:text-left flex items-start justify-center">
         {/* text & form */}
-        <div className="flex flex-col xl:flex-row w-full max-w-[920px] gap-6 xl:gap-8">
+        <div className="flex flex-col xl:flex-row w-full max-w-[1220px] gap-6 xl:gap-8">
           {/* text & info */}
           <motion.div
             variants={fadeIn("right", 0.2)}
