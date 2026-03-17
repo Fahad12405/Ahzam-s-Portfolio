@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 # Modern Portfolio using Next.js and Framer Motion
@@ -184,3 +185,6 @@ You can also give this repository a star to show more people and they can use th
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+# Ahzam-s-Portfolio
+>>>>>>> 46d99c44b13baa09b1fc1ebe598429bb44bc0e6b

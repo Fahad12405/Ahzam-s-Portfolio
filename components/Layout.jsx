@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
         "page bg-site text-white bg-cover bg-no-repeat",
         sora.variable,
         "font-sora relative pb-24 xl:pb-0",
-        isHome ? "page--no-scroll h-screen overflow-hidden" : "",
+        isHome ? "page--no-scroll xl:h-screen xl:overflow-hidden" : "",
       ].join(" ")}
     >
       {/* metadata */}
