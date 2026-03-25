@@ -12,7 +12,7 @@ const ProjectDetails = ({ project }) => {
   }
 
   return (
-    <div className="min-h-screen bg-primary/30 pt-32 pb-6 md:pt-40 md:pb-10 overflow-y-auto">
+    <div className="min-h-screen bg-primary/30 pt-40 pb-6 md:pt-40 md:pb-10 overflow-y-auto">
       <Head>
         <title>{project.title} | Portfolio</title>
         <meta name="description" content={project.shortDescription} />
@@ -29,11 +29,11 @@ const ProjectDetails = ({ project }) => {
           {/* Header section */}
           <div className="flex flex-col lg:flex-row gap-6 justify-between items-start lg:items-end border-b border-white/20 pb-8">
             <div>
-              <div className="text-accent text-sm md:text-base mb-2 uppercase tracking-[0.2em] font-semibold">
+              <div className="text-accent text-xs md:text-base mb-2 uppercase tracking-[0.2em] font-semibold">
                 {project.category}
               </div>
-              <h1 className="h1 mb-4">{project.title}</h1>
-              <p className="max-w-2xl text-[14px] sm:text-base leading-relaxed">
+              <h1 className="h1 text-2xl md:text-5xl mb-4">{project.title}</h1>
+              <p className="max-w-2xl text-[13px] sm:text-base leading-relaxed">
                 {project.shortDescription}
               </p>
             </div>
@@ -56,7 +56,7 @@ const ProjectDetails = ({ project }) => {
             {/* Left Column: Details */}
             <div className="lg:col-span-1 space-y-8 order-2 lg:order-1">
               <div>
-                <h3 className="text-xl font-semibold mb-3">Project Details</h3>
+                <h3 className="text-lg md:text-xl font-semibold mb-3">Project Details</h3>
                 <ul className="space-y-3">
                   <li className="flex justify-between border-b border-white/10 pb-2">
                     <span className="text-white/60">Managed By</span>
@@ -70,7 +70,7 @@ const ProjectDetails = ({ project }) => {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold mb-3">Services</h3>
+                <h3 className="text-lg md:text-xl font-semibold mb-3">Services</h3>
                 <div className="flex flex-wrap gap-2">
                   {project.services?.map((service, index) => (
                     <span
@@ -85,7 +85,7 @@ const ProjectDetails = ({ project }) => {
 
               {project.tags && project.tags.length > 0 && (
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">Tags</h3>
+                  <h3 className="text-lg md:text-xl font-semibold mb-3">Tags</h3>
                   <div className="flex flex-wrap gap-2">
                     {project.tags.map((tag, index) => (
                       <span
@@ -102,7 +102,7 @@ const ProjectDetails = ({ project }) => {
 
             {/* Right Column: Content Overview */}
             <div className="lg:col-span-2 space-y-10 order-1 lg:order-2">
-              <div className="w-full h-[300px] md:h-[400px] lg:h-[500px] relative rounded-xl overflow-hidden shadow-2xl">
+              <div className="w-full h-[200px] md:h-[400px] lg:h-[500px] relative rounded-xl overflow-hidden shadow-2xl">
                 <Image
                   src={project.thumbnail}
                   alt={project.title}
@@ -113,29 +113,29 @@ const ProjectDetails = ({ project }) => {
 
               {project.overview && (
                 <div>
-                  <h2 className="text-3xl font-semibold mb-4">Overview</h2>
-                  <p className="text-lg leading-relaxed">{project.overview}</p>
+                  <h2 className="text-xl md:text-3xl font-semibold mb-4">Overview</h2>
+                  <p className="text-sm md:text-lg leading-relaxed">{project.overview}</p>
                 </div>
               )}
 
               {project.challenge && (
                 <div>
-                  <h2 className="text-3xl font-semibold mb-4">The Challenge</h2>
-                  <p className="text-lg leading-relaxed">{project.challenge}</p>
+                  <h2 className="text-xl md:text-3xl font-semibold mb-4">The Challenge</h2>
+                  <p className="text-sm md:text-lg leading-relaxed">{project.challenge}</p>
                 </div>
               )}
 
               {project.solution && (
                 <div>
-                  <h2 className="text-3xl font-semibold mb-4">Our Solution</h2>
-                  <p className="text-lg leading-relaxed">{project.solution}</p>
+                  <h2 className="text-xl md:text-3xl font-semibold mb-4">Our Solution</h2>
+                  <p className="text-sm md:text-lg leading-relaxed">{project.solution}</p>
                 </div>
               )}
 
               {project.results && (
                 <div>
-                  <h2 className="text-3xl font-semibold mb-4">Results</h2>
-                  <p className="text-lg leading-relaxed">{project.results}</p>
+                  <h2 className="text-xl md:text-3xl font-semibold mb-4">Results</h2>
+                  <p className="text-sm md:text-lg leading-relaxed">{project.results}</p>
                 </div>
               )}
 
@@ -144,7 +144,7 @@ const ProjectDetails = ({ project }) => {
                   {project.images.map((imgSrc, index) => (
                     <div
                       key={index}
-                      className="w-full h-[250px] relative rounded-xl overflow-hidden shadow-lg"
+                      className="w-full h-[180px] md:h-[250px] relative rounded-xl overflow-hidden shadow-lg"
                     >
                       <Image
                         src={imgSrc}

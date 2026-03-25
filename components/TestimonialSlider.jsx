@@ -4,24 +4,24 @@ import { FaQuoteLeft } from "react-icons/fa";
 const testimonialData = [
   {
     image: "/t-avt-1.png",
-    name: "Anne Smith",
-    position: "Client",
+    name: "Liam Anderson",
+    position: "Digital Strategist",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Ahzam transformed our vision into a high-performance web application. His attention to detail in the UI and smooth animations set our platform apart.",
   },
   {
     image: "/t-avt-2.png",
-    name: "Jane Doe",
-    position: "Founder",
+    name: "Sophia Rodriguez",
+    position: "Product Owner",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Working with Ahzam was an absolute pleasure. He delivered complex features ahead of schedule and his technical expertise in Next.js is truly impressive.",
   },
   {
     image: "/t-avt-3.png",
-    name: "Jhon Doe",
-    position: "Product Lead",
+    name: "Ethan Wright",
+    position: "Software Architect",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "A rare developer who combines great design sense with solid engineering. He built a scalable and secure backend that handles our traffic effortlessly.",
   },
   {
     image: "/t-avt-1.png",

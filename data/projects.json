@@ -615,6 +615,37 @@
   "projectHandover": "February 28, 2026",
   "projectHandoverMonths": "March 18, 2026",
   "managedBy": "Ahzam Imam"
+},
+{
+  "id": "veltrix-panel",
+  "title": "Veltrix Panel",
+  "slug": "veltrix-panel",
+  "category": "Admin Dashboard / UI Template",
+  "shortDescription": "A modern, responsive dashboard panel built with Tailwind CSS, designed for scalable web applications and efficient UI development.",
+  "liveUrl": "https://veltrix-panel.vercel.app/",
+  "thumbnail": "/projects/veltrix-panel.png",
+  "images": [
+    "/project_id_images/47.png",
+    "/project_id_images/48.png"
+  ],
+  "overview": "Veltrix Panel is a fully responsive and modern dashboard template built using Tailwind CSS. It provides a clean and structured UI for building admin panels, SaaS platforms, and web applications. The panel includes multiple reusable components such as charts, tables, forms, and navigation layouts. It is designed with scalability in mind, allowing developers to easily integrate and extend it according to their project needs. The UI follows a minimal and professional design approach, ensuring a smooth user experience across all devices.",
+  "features": [
+    "Responsive Dashboard Layout",
+    "Reusable UI Components",
+    "Charts & Data Visualization",
+    "Modern Tailwind Design",
+    "Clean & Minimal UI",
+    "Scalable Architecture"
+  ],
+  "useCase": "Veltrix Panel is ideal for building admin dashboards, analytics platforms, SaaS applications, CRM systems, and any web application that requires structured data visualization and management.",
+  "techStack": [
+    "Next.js",
+    "Tailwind CSS",
+    "React",
+    "Responsive Design Principles"
+  ],
+  "results": "The project delivers a highly efficient and production-ready dashboard template that reduces development time and ensures consistency in UI design. It enhances user experience with clean layouts and smooth interactions.",
+  "managedBy": "Ahzam Imam"
 }
 ]
 
