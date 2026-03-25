@@ -15,7 +15,8 @@ const sora = Sora({
 
 const Layout = ({ children }) => {
   const router = useRouter();
-  const isHome = router.pathname === "/";
+  const noScrollPages = ["/", "/about", "/services", "/work"];
+  const isNoScroll = noScrollPages.includes(router.pathname);
 
   return (
     <main
@@ -23,7 +24,7 @@ const Layout = ({ children }) => {
         "page bg-site text-white bg-cover bg-no-repeat",
         sora.variable,
         "font-sora relative pb-24 xl:pb-0 overflow-x-hidden",
-        isHome ? "page--no-scroll xl:h-screen xl:overflow-hidden" : "",
+        isNoScroll ? "page--no-scroll xl:h-screen xl:overflow-hidden" : "",
       ].join(" ")}
     >
       {/* metadata */}
