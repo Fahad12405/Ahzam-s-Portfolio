@@ -1,0 +1,620 @@
+[
+ {
+  "id": "al-kababi",
+  "title": "Al-Kababi",
+  "slug": "al-kababi",
+  "category": "Food Ordering",
+  "shortDescription": "At Ahzam Imam, we crafted Al-Kababi, a fast and intuitive food ordering platform designed for modern users who value speed and convenience.",
+  "liveUrl": "https://alkababi.com/",
+  "thumbnail": "/projects/1.jpg",
+  "images": [
+    "/project_id_images/4.png",
+    "/project_id_images/11.png"
+  ],
+  "overview": "At Ahzam Imam, we crafted Al-Kababi, a fast and intuitive food ordering platform designed for modern users who value speed and convenience. Built with Next.js and powered by Supabase, the web application delivers a seamless restaurant-style ordering experience directly to users. The interface was carefully designed in Figma, combining minimalism with high usability to improve the customer journey from browsing the menu to completing checkout. The platform focuses on a user-centered UI/UX that reduces ordering steps, integrates real-time menu availability through Supabase, and provides a fully responsive design for mobile, tablet, and desktop devices. Every element of the experience was built to ensure simplicity, reliability, and efficiency for everyday food ordering.",
+  "challenge": "Building user trust in an online food ordering platform while maintaining a smooth and fast checkout experience. Another challenge was creating a scalable structure that could support future features such as restaurant listings, order tracking, and menu management.",
+  "solution": "We implemented a clean and modern UI design using Figma and developed the frontend using Next.js for high performance and scalability. Supabase was integrated as the backend to manage real-time menu data and ensure accurate availability of food items. The responsive layout ensures the platform works smoothly across all devices.",
+  "results": "Al-Kababi provides users with a simple, fast, and reliable food ordering experience. The streamlined interface and optimized checkout flow make it easy for customers to browse menus, place orders quickly, and enjoy a modern digital dining experience.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "Backend Integration"
+  ],
+  "projectHandover": "December 1, 2025",
+  "projectHandoverMonths": "January 15, 2026",
+  "managedBy": "Ahzam Imam"
+},
+ {
+  "id": "amatul-associates",
+  "title": "Amatul Associates",
+  "slug": "amatul-associates",
+  "category": "Web Application",
+  "shortDescription": "A professional corporate website designed for Amatul Associates, a leading trading company specializing in high-end construction materials and innovative marine solutions in Pakistan.",
+  "liveUrl": "https://amatulassociates.com/",
+  "thumbnail": "/projects/2.png",
+  "images": [
+    "/project_id_images/18.png",
+    "/project_id_images/19.png"
+  ],
+  "tags": [
+    "Corporate Website",
+    "Construction Industry",
+    "Business Website"
+  ],
+  "overview": "Amatul Associates, established in 2008, is a leading trading company specializing in high-end construction materials and innovative marine solutions in Pakistan. The company partners with global leaders to deliver cutting-edge projects while promoting sustainability and innovation in the construction industry. Their mission focuses on introducing smart technologies and environmentally responsible practices that enhance local construction standards while enabling the export of high-quality products globally. The company offers a diverse range of products including floating docks, vertical axis wind turbines, seafood products, floating mats, mango exports, and bamboo outdoor decking. Through strong collaborations with reputable international companies, Amatul Associates continues to expand its product offerings and strengthen its position in the market.",
+  "challenge": "Amatul Associates faced challenges in penetrating a highly competitive local market while introducing advanced construction materials and innovative marine technologies. Another key challenge was encouraging the adoption of modern and sustainable solutions within an industry that often relies on traditional construction methods. Ensuring environmental sustainability while expanding product offerings also required careful planning and strategic partnerships.",
+  "solution": "To overcome these challenges, Amatul Associates formed strategic joint ventures with leading firms from China and Taiwan to strengthen their product portfolio and innovation capacity. Their dedicated research and development team conducted detailed market analysis to better understand local needs and introduce advanced technologies and eco-friendly products. This approach allowed the company to successfully position itself as a provider of modern construction solutions in Pakistan.",
+  "results": "Through innovation and strategic collaboration, Amatul Associates has successfully completed over 132 projects and built a strong reputation in the construction industry. Their focus on quality, sustainability, and advanced technologies has helped them create new job opportunities and contribute positively to the local economy while expanding their presence in the construction materials sector.",
+  "services": [
+    "Website Design",
+    "UI/UX Design",
+    "Corporate Website Development"
+  ],
+  "projectHandover": "October 21, 2024",
+  "projectHandoverMonths": "October 18, 2024",
+  "managedBy": "Ahzam Imam"
+},
+ {
+  "id": "celebgive",
+  "title": "CelebGive",
+  "slug": "celebgive",
+  "category": "Auction Platform",
+  "shortDescription": "CelebGive is a charity auction platform where fans can bid on exclusive celebrity items while supporting charitable causes through a secure and user-friendly system.",
+  "liveUrl": "https://auction-sysartx.ne",
+  "thumbnail": "/projects/3.jpg",
+  "images": [
+    "/project_id_images/20.png",
+    "/project_id_images/21.png"
+  ],
+  "tags": [
+    "Auction Platform",
+    "Charity Platform",
+    "Web & Mobile Application"
+  ],
+  "overview": "CelebGive is a digital auction platform developed to connect fans with their favorite celebrities while supporting meaningful charitable causes. The platform allows users to bid on exclusive celebrity items such as clothing, memorabilia, and unique experiences, with all proceeds going directly to charities selected by the celebrities themselves. The platform was designed to deliver a seamless and engaging experience for fans, celebrities, and charitable organizations. With a user-friendly interface, transparent auction system, and integrated charity support, CelebGive ensures that every transaction contributes to a positive social impact while offering fans a unique opportunity to own memorable items.",
+  "challenge": "One of the main challenges was building a scalable platform capable of handling high traffic during popular auctions. Ensuring strong security for user data and financial transactions was also critical. Additionally, the platform needed to maintain high user engagement and support seamless integration with multiple payment gateways and charity databases.",
+  "solution": "To address scalability, a cloud-based infrastructure was implemented to manage traffic spikes during high-profile auctions. Advanced encryption and security protocols were integrated to protect user data and ensure safe transactions. The platform also includes real-time auction updates, personalized notifications, and interactive dashboards to improve user engagement. Custom APIs were developed to integrate payment gateways and charity databases efficiently.",
+  "results": "CelebGive has successfully hosted multiple celebrity auctions, raising significant funds for charitable organizations while building an active community of users. The platform delivers a secure, transparent, and engaging experience that benefits fans, celebrities, and charities alike.",
+  "services": [
+    "Mobile Application Development",
+    "Web Application Development",
+    "UI/UX Design"
+  ],
+  "projectHandover": "June 2, 2025",
+  "projectHandoverMonths": "April 3, 2025",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "candle-wick-store",
+  "title": "The Candle Wick Store",
+  "slug": "candle-wick-store",
+  "category": "E-Commerce",
+  "shortDescription": "An elegant eCommerce platform offering luxurious hand-poured soy candles inspired by iconic cities and premium fragrances.",
+  "liveUrl": "https://thecandlewickstore.com/",
+  "thumbnail": "/projects/4.jpg",
+  "images": [
+    "/project_id_images/26.png",
+    "/project_id_images/27.png"
+  ],
+  "tags": [
+    "E-Commerce",
+    "Retail Website",
+    "Online Store"
+  ],
+  "overview": "The Candle Wick Store is an eCommerce platform developed to showcase and sell premium city-inspired scented candles. The brand focuses on crafting luxurious hand-poured candles made from 100% natural soy wax and high-quality fragrances. Each candle is carefully designed to capture the essence of iconic cities, creating a nostalgic and mood-lifting experience for customers. The platform provides a smooth online shopping experience with a visually appealing design, intuitive navigation, and a strong focus on product presentation, helping customers easily explore and purchase candles that bring warmth and elegance into their homes.",
+  "challenge": "One of the main challenges was translating the unique atmosphere of different cities into distinctive candle scents while maintaining product quality and consistency during the hand-pouring process. Another challenge was establishing a strong brand presence in a competitive online market and ensuring the website maintained high performance, strong SEO visibility, and fast loading speeds for a smooth shopping experience.",
+  "solution": "To address these challenges, a robust eCommerce platform was designed with a focus on user experience, performance optimization, and brand storytelling. The website highlights the craftsmanship behind each candle while providing an efficient shopping flow. SEO strategies and performance optimizations were implemented to improve visibility and speed, while continuous website management ensures smooth operation and regular updates.",
+  "results": "The Candle Wick Store successfully delivers a unique online shopping experience for customers looking for premium scented candles. Through strong branding, high-quality product presentation, and effective website management, the platform has established itself as a reliable and aesthetically appealing destination for customers seeking elegant home fragrance products.",
+  "services": [
+    "Website Design",
+    "E-Commerce Development",
+    "Website Management"
+  ],
+  "projectHandover": "Ongoing Monthly Management",
+  "projectHandoverMonths": "July 10, 2024",
+  "managedBy": "Ahzam Imam"
+},
+  {
+  "id": "amatul-constructions",
+  "title": "Amatul Constructions",
+  "slug": "amatul-constructions",
+  "category": "Corporate Website",
+  "shortDescription": "A professional corporate website for Amatul Constructions, a leading marine construction company offering innovative coastal and marine engineering solutions in Pakistan.",
+  "liveUrl": "https://amatulconstructions.com/",
+  "thumbnail": "/projects/5.jpg",
+  "images": [
+    "/project_id_images/16.png",
+    "/project_id_images/17.png"
+  ],
+  "tags": [
+    "Corporate Website",
+    "Marine Construction",
+    "Business Website"
+  ],
+  "overview": "Amatul Constructions, established in 2003, is a leading marine construction service provider in Pakistan offering innovative and reliable solutions for coastal and marine infrastructure. The company specializes in services such as boat lift systems, cofferdams, shoreline preservation, and embankment construction. Their mission is to deliver high-quality marine engineering solutions tailored to client needs while maintaining the highest standards of safety, reliability, and innovation. With a strong focus on client satisfaction and engineering excellence, Amatul Constructions continues to contribute to the development of coastal and underwater infrastructure across the region.",
+  "challenge": "Marine construction projects present unique challenges due to harsh environmental conditions, unpredictable weather, and complex engineering requirements. Ensuring compliance with strict safety regulations while managing large-scale and technically demanding projects required precise planning and specialized expertise.",
+  "solution": "To overcome these challenges, Amatul Constructions utilizes advanced marine engineering techniques, strict safety protocols, and strategic project management methods. Each project is carefully planned and customized according to environmental conditions and client requirements, ensuring efficient execution and long-term durability of marine infrastructure.",
+  "results": "Through innovative engineering practices and a commitment to quality, Amatul Constructions has successfully completed numerous marine infrastructure projects. Their expertise in coastal and underwater construction has strengthened their reputation as a trusted provider of reliable marine solutions while delivering durable infrastructure that meets industry standards.",
+  "services": [
+    "Website Design",
+    "Corporate Website Development",
+    "UI/UX Design"
+  ],
+  "projectHandover": "October 21, 2024",
+  "projectHandoverMonths": "October 17, 2024",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "securehr",
+  "title": "SecureHR",
+  "slug": "securehr",
+  "category": "HR Management System",
+  "shortDescription": "SecureHR is a modern HR management system designed to streamline recruitment and employee management with automated resume parsing, AI-powered recommendations, and secure data handling.",
+  "liveUrl": "#",
+  "thumbnail": "/projects/6.png",
+  "images": [
+    "/project_id_images/28.png",
+    "/project_id_images/5.png"
+  ],
+  "tags": [
+    "HR System",
+    "Recruitment Automation",
+    "Employee Management"
+  ],
+  "overview": "SecureHR is a powerful HR management system designed to simplify recruitment processes and improve employee management within organizations. The platform automates resume handling through intelligent resume parsing and integrates an AI chatbot that provides personalized CV recommendations for different job roles. By combining automation with essential HR management tools, SecureHR helps organizations efficiently manage candidate applications, employee records, and workplace operations through a secure and centralized system.",
+  "challenge": "Organizations often struggle with manually processing large volumes of resumes, which leads to inefficiencies and delays in recruitment. Matching the right candidates with the right job positions can also be difficult without automated assistance. Additionally, many companies lack a unified platform for managing employee data and ensuring secure handling of sensitive HR information.",
+  "solution": "To address these challenges, SecureHR was developed as an automated HR management system that simplifies resume processing and candidate selection. The resume parsing system automatically stores candidate data into the database, eliminating manual entry errors. An integrated AI chatbot analyzes candidate profiles and provides tailored CV recommendations for open positions. The system also includes employee management features and attendance tracking through clock in/out functionality.",
+  "results": "SecureHR significantly improves recruitment efficiency and employee data management by automating key HR processes. Organizations can quickly store and analyze candidate information, receive intelligent hiring recommendations, and manage employee records through a secure system. The platform enhances productivity, reduces manual workload, and provides a reliable solution for modern HR management.",
+  "services": [
+    "HR Management System Development",
+    "AI Integration",
+    "System Automation"
+  ],
+  "projectHandover": "October 1, 2024",
+  "projectHandoverMonths": "July 1, 2024",
+  "managedBy": "Ahzam Imam"
+},
+ {
+  "id": "edlabs",
+  "title": "EdLabs",
+  "slug": "edlabs",
+  "category": "Educational Solutions",
+  "shortDescription": "EdLabs delivers innovative solutions for educational institutions, enhancing learning outcomes and operational efficiency through strategic consulting and technology integration.",
+  "liveUrl": "https://edlabsadvisory.com",
+  "thumbnail": "/projects/7.png",
+  "images": [
+    "/project_id_images/6.png",
+    "/project_id_images/7.png"
+  ],
+  "tags": [
+    "Education",
+    "Advisory Services",
+    "Consulting"
+  ],
+  "overview": "EdLabs specializes in strategic advisory services for educational institutions, aiming to enhance learning outcomes, improve operational efficiency, and drive sustainable innovation. The company provides tailored consulting, research, and implementation services to foster educational innovation and deliver measurable global impact.",
+  "challenge": "The main challenges included improving both learning outcomes and operational efficiency simultaneously, addressing complex and evolving educational needs, and implementing innovative solutions across diverse institutional settings.",
+  "solution": "EdLabs delivers customized consulting services, leveraging research, evaluation, and strategic planning to implement solutions effectively. Through actionable insights and comprehensive project execution, the company ensures that innovation strategies are successfully integrated to improve educational quality and operational efficiency.",
+  "results": "Institutions partnering with EdLabs have experienced enhanced educational experiences, increased operational efficiency, and successful global collaborations. The platform's strategic implementation approach ensures long-term sustainable improvements and measurable impact in the education sector.",
+  "services": [
+    "Website Design",
+    "Consulting Solutions",
+    "Implementation Services"
+  ],
+  "projectHandover": "August 10, 2024",
+  "projectHandoverMonths": "August 6, 2024",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "fatima-ventures",
+  "title": "Fatima Ventures",
+  "slug": "fatima-ventures",
+  "category": "Corporate Website",
+  "shortDescription": "A dynamic website for FATIMA VENTURES, showcasing their expertise in innovative, safe, and sustainable marine construction solutions since 2008.",
+  "liveUrl": "https://fatimaventures.pk/",
+  "thumbnail": "/projects/8.png",
+  "images": [
+    "/project_id_images/2.png",
+    "/project_id_images/8.png"
+  ],
+  "tags": [
+    "Marine Construction",
+    "Corporate Website",
+    "Sustainability"
+  ],
+  "overview": "Fatima Ventures is a leading marine construction company established in 2008, providing innovative, safe, and sustainable coastal solutions. The website highlights their expertise, commitment to quality, and ability to deliver customized solutions for diverse marine infrastructure projects while maintaining top industry standards and prioritizing client satisfaction.",
+  "challenge": "Addressing unique client needs with tailored marine construction services, ensuring safety in high-risk coastal environments, and meeting growing demands for sustainable and resilient infrastructure.",
+  "solution": "Ahzam Imam developed a dynamic website that effectively showcases Fatima Ventures’ innovative solutions and services. The site emphasizes safety, sustainability, and high-quality project delivery while providing easy access to information for clients and partners.",
+  "results": "The website enables Fatima Ventures to present their services and solutions clearly and professionally, reinforcing their reputation as a trusted leader in marine construction. Clients can easily explore their offerings, enhancing engagement and business opportunities.",
+  "services": [
+    "Website Design",
+    "Corporate Website Development",
+    "UI/UX Design"
+  ],
+  "projectHandover": "August 15, 2024",
+  "projectHandoverMonths": "July 15, 2024",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "alrex-usa",
+  "title": "Alrex USA",
+  "slug": "alrex-usa",
+  "category": "Corporate Website",
+  "shortDescription": "A clean, modern website for Alrex USA, showcasing concealed door closers, hydraulic hinges, and advanced door control systems with technical clarity.",
+  "liveUrl": "https://alrexusa.com/",
+  "thumbnail": "/projects/9.webp",
+  "images": [
+    "/project_id_images/24.png",
+    "/project_id_images/25.png"
+  ],
+  "tags": [
+    "Corporate Website",
+    "Product Showcase",
+    "Engineering Solutions"
+  ],
+  "overview": "Alrex USA is a modern American manufacturer of concealed door closers, hydraulic hinges, and advanced door control systems. This website project delivers a clean, professional, and product-centric platform that informs, guides, and supports contractors, architects, and commercial designers with clarity and ease of use. High-quality imagery, technical diagrams, and datasheets are incorporated to ensure full understanding of the products.",
+  "challenge": "Explaining complex technical mechanisms to non-technical visitors, presenting multiple product variations clearly, creating an appealing modern UI for contractors and designers, integrating datasheets and technical documentation without clutter, and maintaining fast load times despite heavy technical content.",
+  "solution": "Ahzam Imam developed a product-first digital experience with a clean layout, minimalistic navigation, subtle animations, and modern typography. Technical assets such as datasheets, performance charts, and installation diagrams were embedded seamlessly, ensuring clarity and usability. The design prioritizes user focus on key products while keeping the experience smooth across desktop, tablet, and mobile devices.",
+  "results": "The final website enhances brand credibility, improves technical understanding for contractors and designers, and provides a fast, scalable, and professional browsing experience. The platform effectively balances aesthetics with technical precision, resulting in higher user engagement and satisfaction.",
+  "services": [
+    "Web Application Development",
+    "UI/UX Design",
+    "Full Stack Implementation"
+  ],
+  "projectHandover": "November 2, 2025",
+  "projectHandoverMonths": "September 25, 2025",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "quranic-recitation-app",
+  "title": "Quranic Recitation App",
+  "slug": "quranic-recitation-app",
+  "category": "Religious App",
+  "shortDescription": "A web and mobile platform for collective Quranic recitation, progress tracking, and personalized engagement.",
+  "liveUrl": "#",
+  "thumbnail": "/projects/10.png",
+  "images": [
+    "/project_id_images/29.jpeg",
+    "/project_id_images/30.jpeg"
+  ],
+  "tags": [
+    "Quranic App",
+    "Religious Engagement",
+    "Mobile & Web"
+  ],
+  "overview": "The Quranic Recitation Application is a web and mobile platform designed to enhance collective Quranic recitation experiences. Users can select, recite, and track verses individually or as part of a global community, fostering unity through collective recitation while promoting continuous spiritual growth.",
+  "challenge": "Establishing a unique platform in a niche already populated with Quranic apps, designing an intuitive UX for diverse users, enabling real-time global recitation tracking, and motivating users to engage actively in collective recitation.",
+  "solution": "Ahzam Imam developed a collective recitation tracker with an intuitive and accessible interface, customizable reading options, and a real-time progress tracking system. The platform ensures smooth resets upon completion of each recitation cycle, encouraging continuous participation and global community engagement.",
+  "results": "The platform successfully fosters unity and spiritual growth among users worldwide, providing a unique, user-friendly environment for Quranic engagement that differentiates it from other applications in the market.",
+  "services": [
+    "Mobile & Web Application Development",
+    "UI/UX Design",
+    "Progress Tracking System"
+  ],
+  "projectHandover": "Ongoing Monthly Management",
+  "projectHandoverMonths": "October 19, 2024",
+  "managedBy": "Ahzam Imam"
+},
+ {
+  "id": "nurcouture-website",
+  "title": "NurCouture",
+  "slug": "nurcouture-website",
+  "category": "Fashion eCommerce",
+  "shortDescription": "Premium Islamic fashion retailer blending tradition with modern elegance.",
+  "liveUrl": "https://nurcouture.uk/",
+  "thumbnail": "/projects/12.png",
+  "images": [
+    "/project_id_images/9.png",
+    "/project_id_images/10.png"
+  ],
+  "tags": ["Fashion", "Islamic Wear", "eCommerce"],
+  "overview": "NurCouture is an online fashion retailer specializing in abayas and Islamic fashion with a modern twist. The website offers women’s, men’s, and children’s clothing, accessories, and exclusive collections, combining tradition with contemporary elegance for a high-quality fashion experience.",
+  "challenge": "Managing a wide range of products during sales and promotions, ensuring smooth navigation and handling of product variants, enhancing customer engagement and conversion rates, and maintaining high customer satisfaction in a competitive market.",
+  "solution": "Ahzam Imam optimized the website and customer experience by improving inventory management, redesigning the interface for seamless navigation, and implementing intuitive product variant selection. Special promotions and limited-time collections increased engagement and sales, supported by flexible payment options and 24/7 responsive support.",
+  "results": "NurCouture achieved higher sales conversion rates, better customer retention, and established itself as a premium yet accessible fashion brand, enhancing overall user experience and brand credibility.",
+  "services": [
+    "Website Design",
+    "eCommerce Management",
+    "UX/UI Optimization"
+  ],
+  "projectHandover": "Ongoing Monthly Management",
+  "projectHandoverMonths": "August 30, 2024",
+  "managedBy": "Ahzam Imam"
+} ,
+ {
+  "id": "aerooptix-ai",
+  "title": "SBI Homes",
+  "slug": "sbi-homes",
+  "category": "Real Estate Website",
+  "shortDescription": "Comprehensive real estate platform for fast home sales with transparent cash deals.",
+  "liveUrl": "https://sbihomes.com/",
+  "thumbnail": "/projects/13.png",
+  "images": [
+    "/project_id_images/14.png",
+    "/project_id_images/15.png"
+  ],
+  "tags": ["Real Estate", "Web Development", "Cash Sale Platform"],
+  "overview": "Ahzam Imam has developed an innovative platform SBI Homes that offers homeowners a quick and hassle-free solution to sell their properties for cash. Whether facing foreclosure, divorce, relocation, or simply seeking a fast sale, our streamlined process ensures a stress-free experience from start to finish. We buy homes in any condition, allowing sellers to close in as little as seven days, without the burden of repairs or renovations.",
+  "challenge": "Homeowners facing financial difficulties or needing to relocate quickly. Traditional home sales can be slow, costly, and stressful. Repairs, renovations, and realtor fees can delay the process and reduce profits.",
+  "solution": "Schmitz Bros Investments simplifies the home-selling process by offering transparent cash deals based on property value. By eliminating traditional real estate hurdles, we deliver no-obligation cash offers within 24 hours of a walkthrough, with closures possible in just seven days. Homeowners enjoy a smooth, efficient sale process with no need for repairs. Our compassionate support and flexible solutions make selling a home simple and convenient during challenging times.",
+  "results": "Homeowners can sell their homes fast in any condition, with flexible closing dates, no hidden fees, and complete transparency. The platform provides a stress-free, efficient solution for real estate transactions.",
+  "services": ["Website Design", "Platform Development", "Real Estate Solutions"],
+  "projectHandover": "August 20, 2024",
+  "projectHandoverMonths": "August 20, 2024",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "stellar-navigation-ai",
+  "title": "Admin Dashboard",
+  "slug": "admin-dashboard",
+  "category": "Web Application",
+  "shortDescription": "Comprehensive admin dashboard for managing employees, orders, and HR processes efficiently.",
+  "liveUrl": "https://sysartxadmin.netlify.app/",
+  "thumbnail": "/projects/14.png",
+  "images": [
+    "/project_id_images/1.png",
+    "/project_id_images/3.png"
+  ],
+  "tags": ["Admin Panel", "Dashboard", "Web App"],
+  "overview": "We developed an Admin Dashboard for our client that allows them to effectively manage orders, track salespersons, and streamline HR management processes. The platform offers a user-friendly interface and integrates essential functionalities to simplify the overall management workflow.",
+  "challenge": "Data Synchronization: Ensuring real-time data sync between the dashboard and other integrated platforms. User Access Control: Setting up customizable user roles and permissions for different levels of access. Responsive Design: Making sure the platform was fully responsive and accessible across all devices. Performance Optimization: Ensuring the dashboard handled large datasets without compromising speed.",
+  "solution": "To overcome these obstacles, we implemented real-time API integration for seamless data synchronization, designed a flexible Role-Based Access Control (RBAC) system to manage user permissions, applied a mobile-first responsive design, and optimized database queries and caching to handle large data efficiently.",
+  "results": "The client now enjoys a fully functional and fast dashboard that simplifies order management, tracks sales team performance accurately, and provides real-time inventory updates—all while giving flexibility to manage HR tasks effortlessly.",
+  "services": ["Admin Panel Design", "Web Application Development", "HR & Order Management"],
+  "projectHandover": "January 8, 2025",
+  "projectHandoverMonths": "January 8, 2025",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "oceanlink-ai",
+  "title": "Richerk",
+  "slug": "richerk",
+  "category": "E-Commerce / Fashion",
+  "shortDescription": "A modern online streetwear store showcasing premium apparel with seamless shopping experience.",
+  "liveUrl": "https://richerk.co",
+  "thumbnail": "/projects/15.webp",
+  "images": [
+    "/project_id_images/22.webp",
+    "/project_id_images/23.webp"
+  ],
+  "tags": ["E-Commerce", "Fashion", "Streetwear", "WooCommerce"],
+  "overview": "Ahzam Imam partnered with Richerk, a rising streetwear fashion brand from Pakistan, to bring their bold vision online through a modern, high-impact website that aligns with their identity as a true movement in urban apparel. The website needed to reflect the energy of the brand — stylish visuals, expressive branding, seamless shopping experience, and scalability.",
+  "challenge": "Convey Richerk’s unique brand voice & identity online in a crowded fashion market. Build an e-commerce solution that performs smoothly — fast loading, mobile responsive, secure checkout. Enable customization & flexibility for future expansion (new collections, campaigns, limited drops). Ensure brand consistency across visuals, typography, animations, and user interactions.",
+  "solution": "Developed a modern, visually striking UI/UX that reflects the bold and raw aesthetic of Richerk. Integrated a robust e-commerce engine (shopping cart, product catalog, inventory, payment gateways). Created custom animations, hover effects, and micro-interactions to add personality and engagement. Ensured mobile responsiveness, cross-browser compatibility, and optimal performance. Built the site architecture to support future additions: new product lines, lookbooks, blog, brand stories.",
+  "results": "Delivered a platform where Richerk can showcase its collections, connect with fans, and sell directly to customers. The website enhances brand presence, improves customer experience, and ensures scalable growth for future collections and campaigns.",
+  "services": ["Website Design", "E-Commerce Integration", "UI/UX Design"],
+  "projectHandover": "Ongoing Monthly Management",
+  "projectHandoverMonths": "Ongoing",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "mazikusa",
+  "title": "MazikUSA",
+  "slug": "mazikusa",
+  "category": "IoT / Enterprise Solutions",
+  "shortDescription": "A dynamic website showcasing MazikUSA’s IoT innovations, strategic partnerships, and enterprise technology solutions.",
+  "liveUrl": "https://mazikusa.com/",
+  "thumbnail": "/projects/16.webp",
+  "images": [
+    "/project_id_images/12.webp",
+    "/project_id_images/13.webp"
+  ],
+  "tags": ["IoT", "Enterprise", "Technology", "Strategic Partnerships", "Microsoft", "NVIDIA"],
+  "overview": "MazikUSA’s website is more than a company brochure; it’s a dynamic digital experience crafted to reflect their technical expertise in IoT, enterprise solutions, and advanced technology partnerships. Designed with precision and purpose, the site provides visitors with clear insight into MazikUSA’s capabilities while highlighting their collaborations with industry leaders like Microsoft and NVIDIA.",
+  "challenge": "Presenting complex technical services and high-profile collaborations in a clear, accessible way for diverse audiences. Ensuring responsive performance across devices while maintaining a visually striking, professional design. Aligning the site with MazikUSA’s brand identity as a technology leader partnered with top global companies. Encouraging meaningful interaction to convert visitors into inquiries and project opportunities.",
+  "solution": "Built on WordPress, the website offers MazikUSA a platform that’s easy to update while highlighting their collaborations with tech giants. The design balances clean, modern layouts with brand-appropriate visuals that reflect technical excellence. Content was structured to emphasize services, case studies, and partner collaborations, making it easy for visitors to grasp the full scope of MazikUSA’s expertise.",
+  "results": "The result is a professional, engaging website that communicates innovation, strengthens trust through strategic partnerships, and drives visitors to take action.",
+  "services": ["Website Design", "UI/UX Design", "Content Strategy", "Lead Generation Features"],
+  "projectHandover": "November 7, 2025",
+  "projectHandoverMonths": "November 2025",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "tellz-tech",
+  "title": "Tellz Tech",
+  "slug": "tellz-tech",
+  "category": "Fintech / Dashboard",
+  "shortDescription": "I developed an asset management platform with an interactive dashboard that allows users to track, manage, and analyze their assets with real-time insights.",
+  "liveUrl": "https://tellz.tech/",
+  "thumbnail": "/projects/tell-tech.png",
+  "images": [
+    "/project_id_images/31.png",
+    "/project_id_images/32.png"
+  ],
+  "overview": "I designed and developed a modern asset management platform that enables users to securely manage their assets through a powerful and user-friendly dashboard. The platform allows users to add, update, and organize asset details while providing real-time insights through interactive graphs and analytics. Features include growth tracking, asset distribution visualization, filtering options, and beneficiary management. Users can easily sign up, log in, and manage their financial data in a structured way. An integrated AI chatbot enhances the experience by allowing users to ask questions related to their assets and receive instant insights. The platform is fully responsive and optimized for performance across all devices.",
+  "challenge": "The main challenge was building a complex yet user-friendly dashboard that handles multiple asset data efficiently while maintaining performance. Another challenge was implementing real-time analytics and making financial data easy to understand through visual representations.",
+  "solution": "I created a clean and intuitive UI using Figma and developed the platform using modern technologies for scalability and performance. Interactive charts and filters were implemented to provide meaningful insights into asset growth and distribution. Secure authentication was added for user sign-in and account management. The AI chatbot was integrated to assist users with quick access to their asset-related information.",
+  "results": "The platform delivers a seamless asset management experience with powerful analytics and an intuitive dashboard. Users can efficiently track their assets, monitor growth, manage beneficiaries, and make informed decisions using real-time data and AI-powered assistance.",
+  "services": [
+    "UI/UX Design",
+    "Dashboard Development",
+    "Frontend Development",
+    "Backend Integration"
+  ],
+  "projectHandover": "March 01, 2026",
+  "projectHandoverMonths": "March 20, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "hypermatter",
+  "title": "Hypermatter",
+  "slug": "hypermatter",
+  "category": "AI Platform / Dashboard",
+  "shortDescription": "I developed Hypermatter, an AI-driven platform designed to help businesses build intelligent applications, automate workflows, and gain actionable insights through data.",
+  "liveUrl": "https://www.hypermatter.co/",
+  "thumbnail": "/projects/Hypermatter.png",
+  "images": [
+    "/project_id_images/33.png",
+    "/project_id_images/34.png"
+  ],
+  "overview": "I designed and developed Hypermatter, an AI-powered platform focused on helping businesses transform their operations through intelligent applications and automation. The platform is built to support data-driven decision making by providing tools for managing data, monitoring performance, and extracting actionable insights. It enables organizations to streamline workflows, improve efficiency, and build scalable digital solutions. The system includes interactive dashboards, analytics, and structured data management features that allow users to track progress, analyze trends, and optimize operations. The interface is designed to simplify complex AI-driven processes into a clean and user-friendly experience, making advanced technology accessible to both technical and non-technical users.",
+  "challenge": "The main challenge was translating complex AI and data-driven systems into a simple and understandable user experience. Ensuring scalability, performance, and clarity while handling large datasets and automation workflows was a key difficulty.",
+  "solution": "I built a modern and scalable platform with a clean UI that simplifies complex processes. Dashboard components, analytics tools, and structured workflows were implemented to help users easily manage and understand their data. The system was optimized for performance and designed to support future AI-based features and integrations.",
+  "results": "Hypermatter provides a powerful digital foundation for businesses to adopt AI and automation. It improves operational efficiency, enhances decision-making through data insights, and delivers a scalable platform for building intelligent solutions.",
+  "services": [
+    "UI/UX Design",
+    "Dashboard Development",
+    "Frontend Development",
+    "AI Platform Interface"
+  ],
+  "projectHandover": "February 20, 2026",
+  "projectHandoverMonths": "March 10, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "kitabhub",
+  "title": "KitabHub",
+  "slug": "kitabhub",
+  "category": "Community / Book Platform",
+  "shortDescription": "I developed KitabHub, a community-driven platform where readers, authors, and publishers connect, share content, and grow together in a digital ecosystem.",
+  "liveUrl": "https://kitabhub.app/",
+  "thumbnail": "/projects/kitabhub.png",
+  "images": [
+    "/project_id_images/35.png",
+    "/project_id_images/36.png"
+  ],
+  "overview": "I designed and developed KitabHub, a collaborative platform built to connect readers, authors, publishers, translators, and editors in one digital space. The platform allows users to create accounts, explore content, and interact with a growing literary community. Authors can build their audience, publishers can promote their work, and readers can discover new books and engage with content. The system is structured to support user interaction, content sharing, and professional networking within the book ecosystem. The UI is designed to be clean and engaging, making it easy for users to navigate, connect, and grow within the platform.",
+  "challenge": "The main challenge was building a multi-role platform that supports different types of users such as readers, authors, and publishers while maintaining a simple and intuitive experience. Managing user interactions, content organization, and scalability were key challenges.",
+  "solution": "I created a structured and scalable platform with a user-friendly interface that supports multiple user roles. Authentication and user management systems were implemented to allow seamless onboarding and interaction. The platform was designed to highlight content discovery, user engagement, and community growth.",
+  "results": "KitabHub provides a centralized space for the book community to connect and grow. It enhances visibility for authors and publishers while offering readers an engaging platform to discover and interact with content. The system supports long-term scalability and community-driven growth.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "Platform Development",
+    "User Management System"
+  ],
+  "projectHandover": "January 25, 2026",
+  "projectHandoverMonths": "February 15, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "buildora",
+  "title": "Buildora",
+  "slug": "buildora",
+  "category": "Real Estate Platform",
+  "shortDescription": "I developed Buildora, a modern real estate platform designed to showcase properties, capture leads, and help businesses convert visitors into clients.",
+  "liveUrl": "http://buildora-real-estate.vercel.app/",
+  "thumbnail": "/projects/buildoraimage.png",
+  "images": [
+    "/project_id_images/37.png",
+    "/project_id_images/38.png"
+  ],
+  "overview": "I designed and developed Buildora, a real estate platform focused on helping agencies and property businesses showcase listings and generate high-quality leads. The platform allows users to browse properties, explore details, and connect directly with agents through structured contact systems. It includes property listings, filtering options, and visually engaging layouts that make it easy for users to find relevant properties. The system is designed to improve conversions by capturing user interest and turning visitors into potential clients. The UI is modern and clean, ensuring a smooth browsing experience across all devices.",
+  "challenge": "The main challenge was building a real estate platform that not only looks visually appealing but also performs effectively in lead generation. Structuring property data, optimizing user navigation, and ensuring high conversion rates were key challenges.",
+  "solution": "I created a clean and conversion-focused design that highlights property listings and simplifies user interaction. Filters and structured layouts were implemented to help users quickly find relevant properties. Contact and inquiry systems were added to capture leads efficiently, while the overall performance was optimized for speed and responsiveness.",
+  "results": "Buildora provides a professional and high-performing real estate experience. It helps businesses showcase properties effectively, improves user engagement, and increases lead generation through a structured and user-friendly platform.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "Real Estate Platform Development",
+    "Lead Generation System"
+  ],
+  "projectHandover": "January 10, 2026",
+  "projectHandoverMonths": "January 30, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "zentro",
+  "title": "Zentro",
+  "slug": "zentro",
+  "category": "E-commerce / Electronics",
+  "shortDescription": "I developed Zentro, a modern e-commerce platform for electronics, smartphones, accessories, and cameras, focused on seamless shopping and smooth user experience.",
+  "liveUrl": "https://zentro-shop.vercel.app/",
+  "thumbnail": "/projects/zentro.png",
+  "images": [
+    "/project_id_images/39.png",
+    "/project_id_images/40.png"
+  ],
+  "overview": "I designed and developed Zentro, a full-featured e-commerce platform for electronics, smartphones, accessories, and camera products. The platform provides users with a smooth shopping experience, allowing them to browse products, view detailed information, and make purchases easily. It includes product listings, categories, search functionality, and a structured UI to help users quickly find what they are looking for. The interface is designed with a clean and modern layout to enhance usability and improve conversion rates. The platform is fully responsive and optimized for performance across all devices, ensuring a seamless shopping experience on mobile, tablet, and desktop.",
+  "challenge": "The main challenge was creating a scalable and user-friendly e-commerce system that handles multiple product categories while maintaining a smooth shopping experience. Ensuring fast performance, clean product organization, and intuitive navigation were key challenges.",
+  "solution": "I implemented a clean UI with structured product categories, search, and filtering options to improve product discovery. The platform was optimized for performance and responsiveness to ensure smooth browsing. A user-focused design approach was followed to simplify the shopping process and enhance usability.",
+  "results": "Zentro delivers a fast, responsive, and user-friendly e-commerce experience. It allows users to easily explore products, compare options, and shop efficiently, resulting in improved engagement and better conversion potential.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "E-commerce Development",
+    "Product Management UI"
+  ],
+  "projectHandover": "February 05, 2026",
+  "projectHandoverMonths": "February 25, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "shopco",
+  "title": "Shop.co",
+  "slug": "shopco",
+  "category": "E-commerce / Fashion",
+  "shortDescription": "I developed Shop.co, a modern fashion e-commerce platform designed for browsing, discovering, and purchasing clothing products with ease.",
+  "liveUrl": "https://shopco-fashion.vercel.app/",
+  "thumbnail": "/projects/shopco.png",
+  "images": [
+    "/project_id_images/41.png",
+    "/project_id_images/42.png"
+  ],
+  "overview": "I designed and developed Shop.co, a modern e-commerce platform focused on fashion and clothing products. The platform provides a smooth and engaging shopping experience where users can explore product categories, view detailed product pages, and browse collections with ease. It features a clean and visually appealing UI that highlights fashion items effectively while maintaining simplicity and usability. The system includes product listings, categories, and a structured layout that enhances user experience and encourages conversions. The platform is fully responsive, ensuring a seamless shopping experience across mobile, tablet, and desktop devices.",
+  "challenge": "The main challenge was designing a visually attractive yet simple interface for a fashion store while ensuring smooth navigation and fast performance. Managing product presentation and maintaining consistency across different screen sizes were key challenges.",
+  "solution": "I created a clean and modern UI using a structured layout to highlight fashion products effectively. The platform was optimized for performance and responsiveness, with an emphasis on intuitive navigation and user-friendly product browsing. The design focuses on enhancing user engagement and improving the overall shopping experience.",
+  "results": "Shop.co delivers a smooth, responsive, and visually appealing e-commerce experience for fashion shoppers. It improves product discoverability, enhances user engagement, and provides a clean interface that supports better conversions.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "E-commerce Development",
+    "Fashion UI Design"
+  ],
+  "projectHandover": "January 18, 2026",
+  "projectHandoverMonths": "February 05, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "axavive",
+  "title": "Axavive",
+  "slug": "axavive",
+  "category": "E-commerce / Health & Nutrition",
+  "shortDescription": "I developed Axavive, a modern nutrition supplement e-commerce platform designed to showcase health products and provide a smooth shopping experience.",
+  "liveUrl": "https://axavive.vercel.app/",
+  "thumbnail": "/projects/axavive.png",
+  "images": [
+    "/project_id_images/43.png",
+    "/project_id_images/44.png"
+  ],
+  "overview": "Axavive is a modern e-commerce platform focused on nutrition supplements and health-related products. The platform allows users to explore a range of supplements, view detailed product information, and make informed purchasing decisions. It is designed with a clean and user-friendly interface that highlights product benefits, ingredients, and usage details. The platform ensures a smooth shopping experience with responsive layouts and optimized performance across all devices. The system is structured to support product browsing, categorization, and future expansion of health-related features.",
+  "challenge": "The main challenge was presenting health and nutrition products in a clear and trustworthy way while maintaining a modern and engaging design. Organizing product information and ensuring a smooth user journey for purchasing was also a key challenge.",
+  "solution": "I designed a clean and visually appealing interface that focuses on product clarity and user trust. Product sections were structured to highlight key details such as benefits and usage. The platform was optimized for performance and responsiveness to ensure a seamless shopping experience across all devices.",
+  "results": "Axavive provides a smooth and engaging platform for users to explore and purchase nutrition supplements. It improves product visibility, enhances user trust, and delivers a modern and responsive e-commerce experience.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "E-commerce Development",
+    "Product Showcase Design"
+  ],
+  "projectHandover": "March 05, 2026",
+  "projectHandoverMonths": "March 25, 2026",
+  "managedBy": "Ahzam Imam"
+},
+{
+  "id": "nexora-digital-studio",
+  "title": "Nexora Digital Studio",
+  "slug": "nexora-digital-studio",
+  "category": "Digital Agency",
+  "shortDescription": "I developed Nexora Digital Studio, a modern digital agency website showcasing services like development, design, marketing, and AI solutions with a strong focus on branding and user experience.",
+  "liveUrl": "https://nexora-digital-studio.vercel.app/",
+  "thumbnail": "/projects/nexora-digital-studio.png",
+  "images": [
+    "/project_id_images/45.png",
+    "/project_id_images/46.png"
+  ],
+  "overview": "Nexora Digital Studio is a modern digital agency website designed to represent a company that transforms ideas into creative and impactful digital solutions. The platform highlights a wide range of services including web development, UI/UX design, digital marketing, AI & machine learning, branding, and e-commerce solutions. It is built to communicate professionalism, creativity, and innovation while maintaining a clean and engaging user experience. The website includes sections for company introduction, services, statistics, and call-to-action elements that help convert visitors into potential clients. The design emphasizes clarity, strong visual hierarchy, and smooth navigation, making it easy for users to explore services and understand the agency’s value. The platform is fully responsive and optimized for performance across all devices.",
+  "challenge": "The main challenge was creating a strong and professional brand identity through the website while effectively presenting multiple services in a clear and structured way. Another challenge was balancing creativity with usability to ensure the website is both visually appealing and easy to navigate.",
+  "solution": "I designed a modern and visually engaging UI that reflects the agency's brand identity and values. The layout was structured to clearly present services, achievements, and company strengths. Interactive elements and smooth transitions were implemented to enhance user engagement. The platform was optimized for responsiveness and performance to ensure a seamless experience across all devices.",
+  "results": "Nexora Digital Studio delivers a strong digital presence that effectively communicates the agency’s services and expertise. It enhances brand credibility, improves user engagement, and provides a professional platform to attract and convert potential clients.",
+  "services": [
+    "UI/UX Design",
+    "Frontend Development",
+    "Website Development",
+    "Brand Identity Design"
+  ],
+  "projectHandover": "February 28, 2026",
+  "projectHandoverMonths": "March 18, 2026",
+  "managedBy": "Ahzam Imam"
+}
+]
+
