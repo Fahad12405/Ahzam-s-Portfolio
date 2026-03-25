@@ -40,6 +40,7 @@ const Layout = ({ children }) => {
         />
         <meta name="author" content="Sanidhya Kumar Verma" />
         <meta name="theme-color" content="#f13024" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </Head>
 
       <TopLeftImg />
